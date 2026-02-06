@@ -1,0 +1,7 @@
+{
+  "name": "AgriMind Multi-Agent System",
+  "description": "An academic-grade agricultural decision support system utilizing a team of specialized AI agents to provide safe, explainable, and practical advice for crop management and risk mitigation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
