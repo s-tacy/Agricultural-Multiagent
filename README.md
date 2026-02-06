@@ -1,5 +1,9 @@
 🌾 Multi-Agent Agricultural Decision Support System
 
+You can view and run this syem in Google AI Studio here;
+[Open Project in Google AI Studio]
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221fXB5p-_gHZsVbZtl0k4g1KqZwYk9YKo_%22%5D,%22action%22:%22open%22,%22userId%22:%22104739452230803535640%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
 Overview
 This project presents a conceptual multi-agent agricultural advisory system designed using multi-agent system principles.  
 The system coordinates multiple specialized AI agents to provide safe, explainable, and practical agricultural recommendations.
